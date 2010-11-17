@@ -1,0 +1,25 @@
+= Counter iOS Demo
+
+== Overview
+
+This application is a demo of some very simple iOS functionality. It can be used in courses teaching
+iOS development to beginners.
+
+== Usage
+
+The applications keeps track of a single counter value. You could maybe use it to count people
+entering a venue, where you need to know how many are inside. It has a decrease (-1) and increase
+(+1) button, which changes the current counter value by one.
+
+There is also a Reset button for setting the counter back to zero and an About button that takes
+the user to this web page on GitHub.
+
+== Features
+
+The application demonstrates the following features:
+
+- A View based iOS application.
+- Outlets and Actions.
+- Setting a border and rounded rectangle background for UILabel and UIButton.
+- Storing a single value between application launches.
+
