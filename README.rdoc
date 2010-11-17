@@ -14,6 +14,8 @@ entering a venue, where you need to know how many are inside. It has a decrease 
 There is also a Reset button for setting the counter back to zero and an About button that takes
 the user to this web page on GitHub.
 
+http://img14.imageshack.us/img14/2115/screenshotcounteriosdem.png
+
 == Features
 
 The application demonstrates the following features:
